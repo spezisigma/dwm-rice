@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "xos4 Terminus:style=Bold:pixelsize=16";
+static char *font = "monospace:style=Bold:pixelsize=16";
 static int borderpx = 2;
 
 /*
