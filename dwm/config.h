@@ -6,8 +6,8 @@ static const unsigned int gappx     = 5;        /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "xos4 Terminus:style=Bold:pixelsize=16" };
-static const char dmenufont[]       = "xos4 Terminus:style=Bold:pixelsize=16";
+static const char *fonts[]          = { "monospace:style=Bold:pixelsize=16" };
+static const char dmenufont[]       = "monospace:style=Bold:pixelsize=16";
 static const char col_white[]       = "#ffffff";
 static const char col_darkgrey[]    = "#262626";
 static const char col_lightgrey[]   = "#a6a6a6";
